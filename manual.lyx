@@ -237,6 +237,10 @@ Ferramentas computacionais.
 \end_layout
 
 \begin_layout Subsection
+LaTex:
+\end_layout
+
+\begin_layout Subsection
 LyX:
 \end_layout
 
@@ -254,6 +258,122 @@ Zani completa aqui
 
 \begin_layout Subsection
 Overleaf:
+\end_layout
+
+\begin_layout Standard
+A solução para a escrita científica colaborativa!
+\end_layout
+
+\begin_layout Standard
+O Overleaf é um editor online de documentos com atualização em tempo real
+ que tem suporte para quase todos os recursos do LaTeX e é 
+\shape italic
+open sourse
+\shape default
+.
+ O diferencial do Overleaf em relação ao LyX é que ele consiste em um ambiente
+ colaborativo baseado em núvem que pode ser usado para escrever, editar
+ e publicar diversos documentos científicos, e inclusive desenvolver currículos
+ com layouts muito profissionais, através de modelos disponibilizados no
+ próprio site.
+ Esta ferramenta tem parceria com uma ampla gama de editores científicos
+ que fornecem modelos em LaTeX de periódicos oficiais, além de link para
+ submissão de artigos diretamente na plataforma deles.
+\end_layout
+
+\begin_layout Standard
+Todas as funcionalidades, templates e possibilidades de criar documentos
+ através do Overleaf podem ser aproveitados acessando o link 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://www.overleaf.com/"
+
+\end_inset
+
+.
+ Uma grande vantagem é que não há a necessidade de instalar nenhum programa
+ ou plugin no computador para utilizá-lo, tudo é carregado e executado nos
+ servidores do site.
+ Desta forma, os arquivos podem ser acessados de qualquer lugar, além de
+ permitir a sincronização via Dropbox e GitHub.
+\end_layout
+
+\begin_layout Standard
+Esta alternativa de criar documentos possui uma linguagem simples que pode
+ ser facilmente aprendida por iniciantes em LaTeX.
+ Além disso, o trabalho online evita conflitos de compatibilidade entre
+ versões e problemas com a formatação de texto, caso fosse editado em programas
+ comuns.
+\end_layout
+
+\begin_layout Standard
+O Overleaf armazena um histórico do documento e permite reverter para edições
+ feitas anteriormente, em caso de arrependimento por alguma alteração feita.
+\end_layout
+
+\begin_layout Standard
+Para trabalhar com o Overleaf basta apenas criar uma conta gratuita e começar
+ a desenvolver os projetos.
+ É possível compartilhar o link do documento para que outros autores possam
+ colaborar com o trabalho.
+ A interface da plataforma consiste em linhas de código em LaTeX para edição
+ do texto, e a qualquer momento é possível visualizar o documento formatado,
+ conforme Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Interface do Overleaf"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ Após finalizar as edições, todas as alterações são salvas em núvem, havendo
+ a possibilidade de baixar uma versão do documento em pdf.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename interface overleaf.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "Interface do Overleaf"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_body
